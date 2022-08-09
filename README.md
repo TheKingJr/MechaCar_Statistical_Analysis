@@ -27,6 +27,8 @@ Does this linear model predict mpg of MechaCar prototypes effectively?
 
 <img width="638" alt="Screen Shot 2022-08-07 at 7 28 08 PM" src="https://user-images.githubusercontent.com/104647424/183565315-6b47e5c3-a335-4299-b604-a2bcf501905f.png">
 
+<img width="625" alt="Screen Shot 2022-08-07 at 7 30 56 PM" src="https://user-images.githubusercontent.com/104647424/183565485-b3130ac9-2bf3-4820-abe9-e44dcf694e75.png">
+
 
 ### Summary Statistics on Suspension Coils
 
@@ -34,9 +36,18 @@ The design specifications for MechaCar suspension coils dictate that the varianc
 
 In total, the MechaCar suspension coils meet the 100 PSI variance threshold. However, when it comes to individual lots, only Lot 1 and Lot 2 meet the 100 PSI criterion. Lot 3 is out of spec when it comes to variance and an investigation by the manufacturing team should be conducted on Lot 3 to see what is happening and how they can correct the issue. 
 
+
 ### T-Tests on Suspension Coils
 
 For all t-tests on the suspension coils, there is not sufficient evidence to reject the null hypothesis if the assumed significance level is 0.05 percent. Additionally for all t-tests, the means for the sampled manufacturing lots and population mean of 1500 PSI are statistically similar. However, lot 3, introduces the biggest deviations from the population mean of 1500 PSI. This further exemplifies the necessity to investigate the manufacturing practices at lot 3. 
+
+<img width="409" alt="Screen Shot 2022-08-08 at 7 41 03 PM" src="https://user-images.githubusercontent.com/104647424/183565618-cbeb69a4-dca2-4ca5-8efb-787f62ecb2f6.png">
+
+<img width="410" alt="Screen Shot 2022-08-08 at 7 41 18 PM" src="https://user-images.githubusercontent.com/104647424/183565638-a2996553-a9f1-4f6c-be3f-718184bd848d.png">
+
+<img width="423" alt="Screen Shot 2022-08-08 at 7 42 01 PM" src="https://user-images.githubusercontent.com/104647424/183565656-2560904a-34cb-4a26-a362-e8df2f4be7db.png">
+
+<img width="405" alt="Screen Shot 2022-08-08 at 7 42 12 PM" src="https://user-images.githubusercontent.com/104647424/183565666-29505a24-1929-4051-8d6f-6678ffda7eec.png">
 
 ### Study Design: MechaCar Vs Competition
 
